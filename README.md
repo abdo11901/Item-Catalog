@@ -12,14 +12,12 @@ Files List:
 ====================
 * database_setup.py
 * demo.py
-* dummyData.py
 * README.md
 
 Files explanation  
 ====================
 * database_setup.py: contains the database
 * demo.py: contains the routes 
-* dummyData.py: Filling the database with some information 
 * README.md: contains a description of our project
 
   How to run it:  
